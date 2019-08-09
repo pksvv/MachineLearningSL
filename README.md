@@ -6,3 +6,6 @@ If you've github account, clone using:
 git clone https://github.com/pksvv/MachineLearningSL.git
 
 or download the zip
+
+
+Anaconda Installation Instructions: https://github.com/pksvv/MachineLearningSL/blob/master/install-anaconda.md
