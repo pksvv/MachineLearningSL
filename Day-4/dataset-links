@@ -1,0 +1,11 @@
+Lending Dataset : https://www.kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip/1
+Merc Benz Greener Manufacturing: https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
+Housing Prices Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+Titanic Dataset: https://www.openml.org/data/get_csv/16826755/phpMYEkMl
+
+Visit the Lending Club Loan Data website, scroll down and click on loan.csv and then on the download button on the right. Unzip the content.
+
+Visit the Mercedes-Benz Greener Manufacturing website, scroll down and click on train.csv.zip and then on the download button on the right. Unzip the content. Rename the dataset to mercedesbenz.csv
+
+Visit the House Sale Price competition website, scroll down and click on train.csv.zip and then on the download button on the right. Unzip the content. Rename the dataset to houseprice.csv
+
