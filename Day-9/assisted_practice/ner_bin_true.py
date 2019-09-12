@@ -16,7 +16,7 @@ def process_content():
         for i in tokenized[5:]:
             words = nltk.word_tokenize(i)
             tagged = nltk.pos_tag(words)
-            namedEnt = nltk.ne_chunk(tagged, binary=True)
+            namedEnt = nltk.ne_chunk(tagged, binary=True)  # [(Val,Tag),(Val,Tag),...]
             namedEnt.draw()
     except Exception as e:
         print(str(e))

@@ -15,6 +15,7 @@ def process_content():
             words = nltk.word_tokenize(i)
             tagged = nltk.pos_tag(words)
 
+            #chunkGram = r"""Chunk: {<.*>+}"""   # Without Chinker
             chunkGram = r"""Chunk: {<.*>+}
                                     }<VB.?|IN|DT|TO>+{"""
 
