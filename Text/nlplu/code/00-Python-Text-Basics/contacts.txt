@@ -1,0 +1,8 @@
+First_Name Last_Name, Title, Extension, Email
+ 
+Amy Baker, Finance Chair, x345, abaker@ourcompany.com
+ 
+Chris Donaldson, Accounting Dir., x621, cdonaldson@ourcompany.com
+ 
+Erin Freeman, Sr. VP, x879, efreeman@ourcompany.com
+ 
